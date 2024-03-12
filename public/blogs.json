@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/x7xJWBW/bolg-cover.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/19CJxFp/author-profile.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 30,
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/x7xJWBW/bolg-cover.jpg",
+      "title": "Exploring the Universe",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/19CJxFp/author-profile.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 45,
+      "hashtags": ["science", "space", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/x7xJWBW/bolg-cover.jpg",
+      "title": "Healthy Living Guide",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/19CJxFp/author-profile.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 20,
+      "hashtags": ["health", "wellness", "fitness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/x7xJWBW/bolg-cover.jpg",
+      "title": "Cooking with Passion",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/19CJxFp/author-profile.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 35,
+      "hashtags": ["cooking", "food", "recipes"]
+    }
+  ]
+  
